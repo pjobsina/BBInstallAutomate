@@ -1,4 +1,4 @@
-# BBInstallAutomate
+w# BBInstallAutomate
 
 **Bug Bounty Tool Installation Automation for Linux and Kali Linux**
 
@@ -67,4 +67,4 @@ GO_URL="https://go.dev/dl/${GO_TAR}"
 ---
 
 ## 💜 Credits
-Created by [Your Name or Username] - Contributions are welcome!
+Created by p1ckl3r1ck - Contributions are welcome!
